@@ -228,6 +228,10 @@ a:focus {
     .top-bar {
         padding: 0 60px;
     }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
+    }
 }
 
 
@@ -310,6 +314,10 @@ a:focus {
         font-size: 16px;
         letter-spacing: 1px;
     }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
+    }
 }
 
 @media (max-width: 991.98px) {   
@@ -324,6 +332,10 @@ a:focus {
     
     .navbar .dropdown-menu {
         box-shadow: none;
+    }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
     }
 }
 
@@ -497,6 +509,10 @@ a:focus {
         font-size: 15px;
         letter-spacing: 0;
     }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
+    }
 }
 
 @media (max-width: 767.98px) {
@@ -509,6 +525,10 @@ a:focus {
         font-size: 15px;
         letter-spacing: 0;
     }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
+    }
 }
 
 @media (max-width: 575.98px) {
@@ -520,6 +540,10 @@ a:focus {
         padding: 8px 20px;
         font-size: 14px;
         letter-spacing: 0;
+    }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
     }
 }
 
@@ -596,6 +620,10 @@ a:focus {
     .page-header a {
         font-size: 20px;
     }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
+    }
 }
 
 @media (max-width: 767.98px) {
@@ -609,6 +637,10 @@ a:focus {
     
     .page-header a {
         font-size: 18px;
+    }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
     }
 }
 
@@ -642,17 +674,29 @@ a:focus {
     .section-header h2 {
         font-size: 45px;
     }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
+    }
 }
 
 @media (max-width: 767.98px) {
     .section-header h2 {
         font-size: 40px;
     }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
+    }
 }
 
 @media (max-width: 575.98px) {
     .section-header h2 {
         font-size: 35px;
+    }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
     }
 }
 
@@ -708,6 +752,10 @@ a:focus {
 @media (max-width: 991.98px) {
     .about .section-header {
         margin-top: 30px;
+    }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
     }
 }
 
@@ -1415,6 +1463,10 @@ a:focus {
     .event .event-text::after {
         display: none;
     }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
+    }
 }
 
 
@@ -1546,17 +1598,29 @@ a:focus {
     .contact .contact-form {
         max-width: 600px;
     }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
+    }
 }
 
 @media (max-width: 767.98px) {
     .contact .contact-form {
         max-width: 400px;
     }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
+    }
 }
 
 @media (max-width: 575.98px) {
     .contact .contact-form {
         max-width: 300px;
+    }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
     }
 }
 
@@ -1861,6 +1925,10 @@ a:focus {
     .sidebar {
         margin-top: 45px;
     }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
+    }
 }
 
 .sidebar .sidebar-widget {
@@ -2145,5 +2213,9 @@ a:focus {
     .footer .copyright .col-md-6:last-child p {
         margin: 5px 0;
         text-align: center;
+    }
+
+    .donate{
+        background: rgba(0, 0, 0, .81);
     }
 }
