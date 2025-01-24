@@ -1,0 +1,4 @@
+.animate__animated.animate__fadeInLeft,
+.animate__animated.animate__fadeInRight {
+    --animate-duration: 3s; /* Adjust the duration as needed */
+}
